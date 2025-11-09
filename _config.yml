@@ -23,10 +23,10 @@ repository               : "XinYu-AU/XinYu-AU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : images/profile.png
   name             : "Xin Yu"
   pronouns         : # example: "she/her"  
-  bio              : "**Research Interest**: Computer Vision, Multimodal Foundation Models, AI4Social Good"
+  bio              : "Research Interest: Computer Vision, Multimodal learning, Foundation Models, AI4Social Good"
   location         : "Adelaide"
   employer         : "Adelaide University"
   uri              : # URL
