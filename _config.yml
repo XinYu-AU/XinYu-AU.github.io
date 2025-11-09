@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xin Yu / Associate Professor"
+title                    : "Xin Yu / Homepage"
 title_separator          : "-"
 name                     : &name "Xin Yu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "XinYu-AU/XinYu-AU.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xin Yu"
+  name             : "Xin Yu (Associate Professor)"
   pronouns         : # example: "she/her"  
   bio              : "<strong style='color: black;'>Research Interest:</strong> Computer Vision, Multimodal learning, Foundation Models, AI4Social Good"
   location         : "Adelaide"
@@ -89,8 +89,8 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   : # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/ for social media previews
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
