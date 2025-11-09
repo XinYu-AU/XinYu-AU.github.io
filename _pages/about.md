@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span class=\"gradient-text\">Welcome to Xin Yu's Personal Homepage</span>"
+title: "Welcome to Xin Yu's Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
