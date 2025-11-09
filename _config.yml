@@ -358,3 +358,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+{% include news_ticker.html %}

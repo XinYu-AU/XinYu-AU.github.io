@@ -1,0 +1,14 @@
+<div class="news-ticker" aria-label="Latest news">
+  <ul class="news-track">
+    {% assign items = site.news | sort: "date" | reverse | slice: 0, 10 %}
+    {% for item in items %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.date | date: "%b %Y" }} — {{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+<script>
+  (function () {
+    const track = document.currentScript.previousElementSibling.querySelector('.news-track');
+    track.innerHTML += track.innerHTML;
+  })();
+</script>

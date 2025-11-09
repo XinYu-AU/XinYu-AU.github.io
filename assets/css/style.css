@@ -1,0 +1,6 @@
+.news-ticker{--row-height:2rem;--duration:18s;--gap:.25rem;height:calc(var(--row-height)*3 + var(--gap)*2);overflow:hidden;border:1px solid #e5e7eb;border-radius:.75rem;padding:.5rem .75rem;background:#fff}
+.news-ticker:hover .news-track{animation-play-state:paused}
+.news-track{list-style:none;margin:0;padding:0;display:grid;grid-auto-rows:var(--row-height);gap:var(--gap);animation:scrollY var(--duration) linear infinite}
+.news-track li{display:flex;align-items:center;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+.news-track a{text-decoration:none;color:inherit}
+@keyframes scrollY{from{transform:translateY(0)}to{transform:translateY(-50%)}}
