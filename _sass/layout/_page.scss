@@ -43,6 +43,16 @@
   }
 }
 
+/* Gradient text utility class - apply to titles or any inline text */
+.gradient-text {
+  /* Example gradient - adjust colors as desired */
+  background: linear-gradient(90deg, #1e3a8a 0%, #6d28d9 50%, #ef4444 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  display: inline-block;
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

@@ -94,7 +94,7 @@
   }
 
   img {
-    max-width: 215px;
+    max-width: 235px;
     border-radius: 0;  // Changed to 0 for rectangular shape
 
     @include breakpoint($large) {
