@@ -13,4 +13,23 @@ I am the recipient of several prestigious awards, including the Australian Resea
 
 <span style="color: blue; text-decoration: underline;"><strong><em>I am constantly seeking highly motivated students with strong backgrounds in CS and Math.</em></strong></span>
 
-<h3 class="news-title gradient-text">News</h3>
+
+<h2 class="news-title gradient-text">News</h2>
+---
+
+<div class="news-marquee" role="region" aria-label="Latest news" tabindex="0">
+  <div class="news-track">
+    <div class="news-items">
+      <div class="news-item"><strong>[2025-11-01]</strong> 📄🎉 Our paper on multimodal learning was accepted to Conference X.</div>
+      <!-- <div class="news-item">[2025-10-12] 🎓 Open PhD positions available — see <a href="/files/positions.pdf">details</a>.</div> -->
+      <div class="news-item">[2025-09-30] 🎤🎉 Talk at Y University on foundation models.</div>
+      <!-- Add more news items here -->
+    </div>
+    <!-- Duplicate block for seamless continuous scroll -->
+    <div class="news-items" aria-hidden="true">
+      <div class="news-item">[2025-11-01] 📄 Our paper on multimodal learning was accepted to Conference X.</div>
+      <div class="news-item">[2025-09-30] 🎤 Talk at Y University on foundation models.</div>
+    </div>
+  </div>
+</div>
+
