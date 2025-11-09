@@ -224,7 +224,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  funding:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -270,10 +270,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _funding
   - scope:
       path: ""
-      type: portfolio
+      type: funding
     values:
       layout: single
       author_profile: true
