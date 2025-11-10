@@ -3,18 +3,21 @@
 // It sets all links inside the main content area to open in a new tab, unless they already
 // specify a target or are fragment/mailto/javascript links.
 (function() {
-  const scope = document.querySelector('.page__content') || document;
+  const scope = document.querySelector('.page__content') || document.querySelector('.archive');
   if (!scope) return;
   const links = scope.querySelectorAll('a[href]');
   links.forEach(a => {
     const href = a.getAttribute('href');
     if (!href) return;
     if (href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('javascript:')) return;
+    // Skip navigation links, sidebar links, and internal page links
+    if (a.closest('.masthead') || a.closest('.sidebar') || a.closest('.greedy-nav') || 
+        a.closest('.page__footer') || a.closest('.breadcrumbs') || a.closest('nav')) return;
     if (a.target && a.target !== '') return; // respect explicit author choice
     a.target = '_blank';
     // Preserve existing rel while ensuring security best practices
     const existingRel = (a.getAttribute('rel') || '').split(/\s+/).filter(Boolean);
-    ['noopener','noreferrer','external'].forEach(v => { if (!existingRel.includes(v)) existingRel.push(v); });
+    ['noopener','noreferrer'].forEach(v => { if (!existingRel.includes(v)) existingRel.push(v); });
     a.setAttribute('rel', existingRel.join(' '));
   });
 })();
