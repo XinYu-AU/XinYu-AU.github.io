@@ -14,8 +14,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
   
-  # - title: "Supervision"
-  #   url: /supervision/
+  - title: "PhD Supervision"
+    url: /supervision/
 
   - title: "Funding"
     url: /funding/
