@@ -11,7 +11,7 @@ I am Xin Yu, an Associate Professor at the University of Adelaide (Dec 2025 – 
 </p>
 
 <p style="text-align: justify;">
-I am the recipient of several prestigious awards, including the Australian Research Council (ARC) Discovery Early Career Researcher Award (**DECRA**, 2023–2025), the **Google Research Scholar Program Award** (2021), and the **Google Inclusion Research Award** (2023). I was also honoured with the **Queensland Young Tall Poppy Science Award** from the Australian Institute of Policy and Science (AIPS).
+I am the recipient of several prestigious awards, including the Australian Research Council (ARC) Discovery Early Career Researcher Award (<strong>DECRA</strong>, 2023–2025), the <strong>Google Research Scholar Program Award</strong> (2021), and the <strong>Google Inclusion Research Award</strong> (2023). I was also honoured with the <strong>Queensland Young Tall Poppy Science Award</strong> from the Australian Institute of Policy and Science (AIPS). I also received the <strong>CORE Outstanding Research Contribution Award 2026</strong> from the Computing Research and Education Association of Australasia (CORE).
 </p>
 
 <p style="text-align: justify;">
