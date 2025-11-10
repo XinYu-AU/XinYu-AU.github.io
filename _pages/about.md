@@ -37,7 +37,7 @@ I am the recipient of several prestigious awards, including the Australian Resea
     <div class="news-item"><strong>[2025-02]</strong> ✨ I have been invited as a penalist in Google Research Open Day 2025.</div>
     <div class="news-item"><strong>[2024-11]</strong> ✨ I have been invited as a track chair in Web4Good at WWW25.</div>
     <div class="news-item"><strong>[2024-10]</strong> ✨ I have been invited as a panelist in the AI Crime Time host by KPMG.</div>
-    <div class="news-item"><strong>[2024-04]</strong> 🧑 I will work at Google Research as a Visiting Research Scientist (Apr 2024 - Present), while continuing to recruit outstanding PhD students.</div>
+    <div class="news-item"><strong>[2024-04]</strong> ℹ️ I will work at Google Research as a Visiting Research Scientist (Apr 2024 - Present), while continuing to recruit outstanding PhD students.</div>
     <div class="news-item"><strong>[2024-03]</strong> 📝🎉 Three papers accepted to CVPR 2024!</div>
     <div class="news-item"><strong>[2024-01]</strong> 📘 One paper published in IEEE TPAMI.</div>
     <div class="news-item"><strong>[2023-09]</strong> 📝 Two papers accepted to NeurIPS 2023!</div>
