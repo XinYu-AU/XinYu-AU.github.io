@@ -1,5 +1,6 @@
 ---
-title: "Detect Liveness Based on Dynamic Blood Vessel Pulsations and Eye Movements"
-excerpt: "Developing liveness detection methods using physiological signals to distinguish real users from spoofed content. DAIRNet – AI for Decision Making, 2022."
+title: "Two-way Auslan: Automatic Machine Translation of Australian Sign Language"
+excerpt: "Building a bidirectional translation framework for Australian Sign Language to enhance accessible communication. ARC Discovery Projects (DP220100800), 2022–2024."
 collection: funding
+link: "https://about.uq.edu.au/experts/project/65148"
 ---

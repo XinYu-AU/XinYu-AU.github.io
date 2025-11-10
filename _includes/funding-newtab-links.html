@@ -1,0 +1,21 @@
+<script>
+// This script runs only on funding collection pages (injected conditionally from layout)
+// It sets all links inside the main content area to open in a new tab, unless they already
+// specify a target or are fragment/mailto/javascript links.
+(function() {
+  const scope = document.querySelector('.page__content') || document;
+  if (!scope) return;
+  const links = scope.querySelectorAll('a[href]');
+  links.forEach(a => {
+    const href = a.getAttribute('href');
+    if (!href) return;
+    if (href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('javascript:')) return;
+    if (a.target && a.target !== '') return; // respect explicit author choice
+    a.target = '_blank';
+    // Preserve existing rel while ensuring security best practices
+    const existingRel = (a.getAttribute('rel') || '').split(/\s+/).filter(Boolean);
+    ['noopener','noreferrer','external'].forEach(v => { if (!existingRel.includes(v)) existingRel.push(v); });
+    a.setAttribute('rel', existingRel.join(' '));
+  });
+})();
+</script>

@@ -454,7 +454,7 @@
 .news-marquee {
   width: 100%;
   max-width: 40rem;
-  height: 8rem; /* visible window height, adjust as needed */
+  height: 20rem; /* visible window height, adjust as needed */
   overflow: hidden;
   background: var(--global-bg-color);
   padding: 0.5rem 0;
@@ -484,7 +484,7 @@
 }
 
 .news-track {
-  animation: news-scroll 12s linear infinite;
+  animation: news-scroll 50s linear infinite;
 }
 
 /* Pause on hover/focus for accessibility */

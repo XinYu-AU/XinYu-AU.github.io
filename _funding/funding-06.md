@@ -1,5 +1,6 @@
 ---
-title: "Advancing Machine Perception: Countering Malicious Fake Visual Data"
-excerpt: "Aims to strengthen AI model robustness and resilience against malicious visual data manipulation. Funded by ARC DECRA (DE230100477), 2023–2025."
+title: "Developing Applications of Satellite Imagery for Modelling Environmental and Social Impacts of Climate Change on Seaweed Farming"
+excerpt: "Utilising satellite data to assess climate impacts on seaweed farming in Indonesia. KONEKSI Grant administered by Griffith University, 2023–2025."
 collection: funding
+link: "https://about.uq.edu.au/experts/project/61606"
 ---

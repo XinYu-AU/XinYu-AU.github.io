@@ -107,3 +107,8 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+{% comment %}Ensure all links on funding pages open in a new tab{% endcomment %}
+{% if page.collection == 'funding' %}
+  {% include funding-newtab-links.html %}
+{% endif %}
