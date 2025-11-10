@@ -1,15 +1,46 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">This guy is too lazy and does not leave anything.</div>
-  <div class="wordwrap">You can find all my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">Please see <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> for a full list of publications.</div>
 {% endif %}
 
+<style>
+.pub-item { display: flex; flex-direction: row; margin-top: 1rem; margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 1rem; }
+.pub-image { width: 320px; height: 180px; min-width: 300px; min-height: 150px; max-width: 300px; max-height: 150px; margin-right: 1rem; background: #f2f2f2; overflow: hidden; border-radius: 4px; flex-shrink: 0; }
+.pub-image img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pub-details { flex-grow: 1; }
+.pub-title { font-size: 0.95rem; font-weight: bold; color: #555; margin-bottom: 0.0rem; }
+.pub-venue { font-style: italic; color: #777; font-size: 0.85rem;}
+.pub-authors { color: #333; font-size: 0.85rem;}
+.pub-year { color: #333; font-size: 0.85rem;}
+.pub-tags { margin-top: 1rem; }
+.pub-tag { display: inline-block; background-color: #d8e8d8; color: #336633; border-radius: 4px; padding: 2px 6px; margin-right: 0.4rem; font-size: 0.8rem; text-decoration: none; }
+.pub-tag:hover { background-color: #b6dcb6; }
+</style>
+
+<!-- Publication Item -->
+
+<!-- <div class="pub-item">
+<div class="pub-image"><img src="/images/test_gif.webp" alt="Publication thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
+<div class="pub-details">
+<div class="pub-title">Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics</div>
+<div class="pub-info">
+  <span class="pub-authors">Chen Liu, <u>Xin Yu,</u></span> 
+  <span class="pub-venue">CVPR,</span>
+  <span class="pub-year">2025.</span>
+</div>
+<div class="pub-tags">
+<a class="pub-tag" href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu\_Dynamic\_Derivation\_and\_Elimination\_Audio\_Visual\_Segmentation\_with\_Enhanced\_Audio\_CVPR\_2025\_paper.html" target="_blank">PDF</a>
+<a class="pub-tag" href="https://scholar.googleusercontent.com/scholar.bib?q=info:T_0AwMSONjYJ:scholar.google.com/&output=citation&scisdr=ChXeqna7EJG3ntflFsg:ABGrvjIAAAAAaRHjDsgm2bY_fvhG9ou_nOMxWwE&scisig=ABGrvjIAAAAAaRHjDiy67LE1uvdEUeogjuE0xKs&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">Bibtex</a>
+</div>
+</div>
+</div> -->
 
 
-
+<!-- Publication Item -->
+{% include publication_list.html %}
