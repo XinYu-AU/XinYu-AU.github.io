@@ -29,11 +29,11 @@ author:
   bio              : "<strong style='color: black;'>Research Interest:</strong> Computer Vision, Multimodal learning, Foundation Models, AI4Social Good"
   location         : "Lot Fourteen, Adelaide"
   employer         : "Adelaide University"
-  uri              : # URL
+  uri              : #
   email            : "xin.yu@adelaide.edu.au" 
 
   # Academic websites
-  academia         : "https://about.uq.edu.au/experts/38367" # URL
+  academia         : "https://researchers.adelaide.edu.au/profile/xin.yu" # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.au/citations?user=oxdtuSEAAAAJ&hl=en"
   inspire-hep      : # URL
