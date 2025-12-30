@@ -17,8 +17,13 @@ I am the recipient of several prestigious awards, including the Australian Resea
 <p style="text-align: justify;">
 <span style="color: blue; text-decoration: underline;"><strong><em>I am constantly recruiting highly motivated students with strong backgrounds in CS, EE and Math.</em></strong></span>
 
-<div style="background: linear-gradient(90deg, #ffe082 0%, #ff8a65 100%); color: #b71c1c; font-size: 1.05rem; font-weight: bold; border-radius: 3px; padding: 16px 24px; margin: 16px 0; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.08); letter-spacing: 1px;">
-  🎉✨ <span style="text-decoration: underline;">Two postdoc positions are available and Two PhD scholarships on foundation models and misinformation detection are available!</span> ✨🎉
+<div style="background: linear-gradient(90deg, #ffe082 0%, #ff8a65 100%); color: #b71c1c; font-size: 1.05rem; font-weight: bold; border-radius: 3px; padding: 12px 24px; margin: 12px 0; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.08); letter-spacing: 1px;">
+  <div style="text-align:left; margin-bottom:8px;">
+    🎉📢 <span style="text-decoration: underline;">Two postdoc positions are available;</span>
+  </div>
+  <div style="text-align:left;">
+    🎉🎓 <span style="text-decoration: underline;">Two PhD scholarships on foundation models and misinformation detection are available!</span>
+  </div>
 </div>
 </p>
 
