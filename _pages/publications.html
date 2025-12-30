@@ -13,52 +13,33 @@ author_profile: true
 .pub-item { display: flex; flex-direction: row; margin-top: 1rem; margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 1rem; }
 .pub-image { width: 320px; height: 180px; min-width: 300px; min-height: 150px; max-width: 300px; max-height: 150px; margin-right: 1rem; background: #f2f2f2; overflow: hidden; border-radius: 4px; flex-shrink: 0; }
 .pub-details { flex-grow: 1; }
-.pub-title { font-size: 0.95rem; font-weight: bold; color: #555; margin-bottom: 0.0rem; }
+.pub-title { font-size: 0.9rem; font-weight: bold; color: #555; margin-bottom: 0.0rem; }
 .pub-venue { font-style: italic; color: #777; font-size: 0.85rem;}
 .pub-authors { color: #333; font-size: 0.85rem;}
 .pub-year { color: #333; font-size: 0.85rem;}
 .pub-tags { margin-top: 1rem; }
 .pub-tag { display: inline-block; background-color: #d8e8d8; color: #336633; border-radius: 4px; padding: 2px 6px; margin-right: 0.4rem; font-size: 0.8rem; text-decoration: none; }
-.pub-tag:hover { background-color: #b6dcb6; }
+.pub-tag { display: inline-block; background-color: #cce6ff; color: #1565c0; border-radius: 4px; padding: 2px 6px; margin-right: 0.4rem; font-size: 0.8rem; text-decoration: none; }
+.pub-tag:hover { background-color: #90caf9; color: #0d47a1; }
 </style>
 
 <!-- Themes -->
  
 <h3>📚 Human-Centric Visual Intelligence (Face, Body, Action, Emotion)</h3>
 
+{% include publication_list_Human.html %}
 
 
+<h3>📚 Foundation Models, Vision-Language Models and Multi-modality Models (MLLM, VLM)</h3>
 
-<h3>📚 Foundation Models and Vision-Language Models (MLLM, VLM)</h3>
-
-
-
+{% include publication_list_FM.html %}
 
 <h3>📚 3D Vision and Augmented Reality (3D Reconstruction, 3D Understanding)</h3>
 
+{% include publication_list_3D.html %}
+
+<h3>📚 Data-Centric Computer Vision (Dataset Curation, Data Generation, Benchmarking)</h3>
+
+{% include publication_list_Dataset.html %}
 
 
-
-<h3>📚 Data-Centric Computer Vision (Dataset Curation, Data Generation)</h3>
-
-
-
-<!-- <div class="pub-item">
-<div class="pub-image"><img src="/images/test_gif.webp" alt="Publication thumbnail" style="width: 100%; height: 100%; object-fit: cover; border-radius: 4px;"></div>
-<div class="pub-details">
-<div class="pub-title">Dynamic Derivation and Elimination: Audio Visual Segmentation with Enhanced Audio Semantics</div>
-<div class="pub-info">
-  <span class="pub-authors">Chen Liu, <u>Xin Yu,</u></span> 
-  <span class="pub-venue">CVPR,</span>
-  <span class="pub-year">2025.</span>
-</div>
-<div class="pub-tags">
-<a class="pub-tag" href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu\_Dynamic\_Derivation\_and\_Elimination\_Audio\_Visual\_Segmentation\_with\_Enhanced\_Audio\_CVPR\_2025\_paper.html" target="_blank">PDF</a>
-<a class="pub-tag" href="https://scholar.googleusercontent.com/scholar.bib?q=info:T_0AwMSONjYJ:scholar.google.com/&output=citation&scisdr=ChXeqna7EJG3ntflFsg:ABGrvjIAAAAAaRHjDsgm2bY_fvhG9ou_nOMxWwE&scisig=ABGrvjIAAAAAaRHjDiy67LE1uvdEUeogjuE0xKs&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">Bibtex</a>
-</div>
-</div>
-</div> -->
-
-
-<!-- Publication Item -->
-<!-- {% include publication_list.html %} -->
