@@ -34,8 +34,8 @@ I am the recipient of several prestigious awards, including the Australian Resea
 <div class="news-marquee" role="region" aria-label="Latest news" tabindex="0">
 <div class="news-track">
   <div class="news-items">
-    <div class="news-item"><strong>[2026-01]</strong> 📝🎉 Four papers accepted to ICLR 2026! Congratulations to Xin Shen, Heming, Xiaobiao and Junfeng!</div>
-    <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Two papers accepted to ICRA 2026! Congratulations to Heming and Xiaobiao!</div>
+    <div class="news-item"><strong>[2026-01]</strong> 📝🎉 Four papers accepted to ICLR 2026 -- congratulations to Xin Shen, Heming, Xiaobiao and Junfeng!</div>
+    <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Two papers accepted to ICRA 2026 -- congratulations to Heming and Xiaobiao!</div>
     <div class="news-item"><strong>[2025-06]</strong> 📝🎉 One papers accepted to NeurIPS 2025!</div>
     <div class="news-item"><strong>[2026-01]</strong> 🎉 Invited for <a href="https://acsw.core.edu.au/program#:~:text=CORE%20Outstanding%20Research%20Contribution" target="_blank" rel="noopener">a Keynote talk in ACS Week 2026</a>.</div>
     <div class="news-item"><strong>[2025-11]</strong> 🎉 Received <a href="https://www.core.edu.au/awards#:~:text=Xin%20Yu%2C%20University%20of%20Queensland" target="_blank" rel="noopener">the CORE Outstanding Research Countribution Award 2026</a>.</div>
