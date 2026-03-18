@@ -34,6 +34,7 @@ I am the recipient of several prestigious awards, including the Australian Resea
 <div class="news-marquee" role="region" aria-label="Latest news" tabindex="0">
 <div class="news-track">
   <div class="news-items">
+    <div class="news-item"><strong>[2026-03]</strong> 🎉 Our team has received the NVIDIA Academic Grant Program award! Congratulations to Eva and Shuyun!</div>
     <div class="news-item"><strong>[2026-02]</strong> 🎉 I have been elevated to IEEE Senior Member!</div>
     <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Five papers accepted to CVPR 2026 -- congratulations to Jessica, Heming, Shijie, Zhuojie, Tianchen and Chen Liu!</div>
     <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Four papers accepted to ICLR 2026 -- congratulations to Xin Shen, Heming, Xiaobiao and Junfeng!</div>
