@@ -19,7 +19,7 @@ I am the recipient of several prestigious awards, including the Australian Resea
 
 <div style="background: linear-gradient(90deg, #ffe082 0%, #ff8a65 100%); color: #b71c1c; font-size: 1.05rem; font-weight: bold; border-radius: 3px; padding: 12px 24px; margin: 12px 0; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.08); letter-spacing: 1px;">
   <div style="text-align:left; margin-bottom:8px;">
-    🎉📢 <span style="text-decoration: underline;">Two postdoc positions are available!</span>
+    <!-- 🎉📢 <span style="text-decoration: underline;">Two postdoc positions are available!</span> -->
   </div>
   <div style="text-align:left;">
     🎉🎓 <span style="text-decoration: underline;">Two PhD scholarships on foundation models and misinformation detection are available!</span>
@@ -34,7 +34,8 @@ I am the recipient of several prestigious awards, including the Australian Resea
 <div class="news-marquee" role="region" aria-label="Latest news" tabindex="0">
 <div class="news-track">
   <div class="news-items">
-    <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Two papers accepted to ICML 2026 -- congratulations to Heming Du and Yan Ke!</div>  
+    <div class="news-item"><strong>[2026-05]</strong> 🎉 One ARC Linkage Project awarded with <a href="https://fome.ai/" target="_blank" rel="noopener">FOME.ai</a>!</div>  
+    <div class="news-item"><strong>[2026-05]</strong> 📝🎉 Two papers accepted to ICML 2026 -- congratulations to Heming Du and Yan Ke!</div>  
     <div class="news-item"><strong>[2026-03]</strong> 🎉 Our team has received the NVIDIA Academic Grant Program award! Congratulations to Eva and Shuyun!</div>
     <div class="news-item"><strong>[2026-02]</strong> 🎉 I have been elevated to IEEE Senior Member!</div>
     <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Five papers accepted to CVPR 2026 -- congratulations to Jessica, Heming, Shijie, Zhuojie, Tianchen and Chen Liu!</div>
