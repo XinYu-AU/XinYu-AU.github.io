@@ -41,7 +41,7 @@ I am the recipient of several prestigious awards, including the Australian Resea
     <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Five papers accepted to CVPR 2026 -- congratulations to Jessica, Heming, Shijie, Zhuojie, Tianchen and Chen Liu!</div>
     <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Four papers accepted to ICLR 2026 -- congratulations to Xin Shen, Heming, Xiaobiao and Junfeng!</div>
     <div class="news-item"><strong>[2026-02]</strong> 📝🎉 Two papers accepted to ICRA 2026 -- congratulations to Heming and Xiaobiao!</div>
-    <div class="news-item"><strong>[2025-06]</strong> 📝🎉 One papers accepted to NeurIPS 2025!</div>
+    <div class="news-item"><strong>[2025-06]</strong> 📝🎉 One paper accepted to NeurIPS 2025!</div>
     <div class="news-item"><strong>[2026-01]</strong> 🎉 Invited for <a href="https://acsw.core.edu.au/program#:~:text=CORE%20Outstanding%20Research%20Contribution" target="_blank" rel="noopener">a Keynote talk in ACS Week 2026</a>.</div>
     <div class="news-item"><strong>[2025-11]</strong> 🎉 Received <a href="https://www.core.edu.au/awards#:~:text=Xin%20Yu%2C%20University%20of%20Queensland" target="_blank" rel="noopener">the CORE Outstanding Research Countribution Award 2026</a>.</div>
     <div class="news-item"><strong>[2025-09]</strong> 🎉 Received <a href="https://aips.org.au/2025ytpwinners#:~:text=Dr%20Siobhan%20Loughnan-,Dr%20Xin%20Yu,-Dr%20Brittany%20Mitchell" target="_blank" rel="noopener">the 2025 Queensland Young Tall Poppy Science Award</a>.</div>
