@@ -22,7 +22,7 @@ I am the recipient of several prestigious awards, including the Australian Resea
     <!-- 🎉📢 <span style="text-decoration: underline;">Two postdoc positions are available!</span> -->
   </div>
   <div style="text-align:left;">
-    🎉🎓 <span style="text-decoration: underline;">Multiple PhD scholarships on foundation models, Hyperspectral Imaging, and misinformation detection are available!</span>
+    🎉🎓 <span style="text-decoration: underline;">Multiple PhD scholarships on foundation models, hyperspectral imaging, and misinformation detection are available!</span>
   </div>
 </div>
 </p>
