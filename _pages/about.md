@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align: justify;">
-I am Xin Yu, an Associate Professor at the University of Adelaide (Dec 2025 – present). My research focuses on computer vision and machine learning, with a particular interest in enabling technologies that improve accessibility and understanding through visual intelligence. I received my PhD degree in Computer Science from the Australian National University, and a PhD degree in Communication and Information Engineering from Tsinghua University. Currently, I am a Visiting Faculty Researcher at Google (2024–-Present), and leading a Visual Intelligence Group at the Australian Institute for Machine Learning (AIML).
+I am Xin Yu, an Associate Professor at the University of Adelaide (Dec 2025 – present). My research focuses on computer vision and machine learning, with a particular interest in enabling technologies that improve accessibility and understanding through visual intelligence. I received my PhD degree in Computer Science from the Australian National University, and a PhD degree in Communication and Information Engineering from Tsinghua University. I was a Visiting Faculty Researcher at Google (2024–-2026). Currently, I am leading a Visual Intelligence Group at the Australian Institute for Machine Learning (AIML).
 </p>
 
 <p style="text-align: justify;">
