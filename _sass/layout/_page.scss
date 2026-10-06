@@ -477,14 +477,15 @@
   color: var(--global-text-color);
 }
 
-/* Animation: translate the track up by 50% (duplicate content) */
+/* Pause on the latest items before scrolling the track upward. */
 @keyframes news-scroll {
-  from { transform: translateY(0); }
-  to   { transform: translateY(-50%); }
+  0%, 6.67% { transform: translateY(0); }
+  100%      { transform: translateY(-50%); }
 }
 
 .news-track {
-  animation: news-scroll 70s linear infinite;
+  /* 5-second pause followed by the original 70-second scroll. */
+  animation: news-scroll 75s linear infinite;
 }
 
 /* Pause on hover/focus for accessibility */
